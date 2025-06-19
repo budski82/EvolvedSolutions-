@@ -7,6 +7,7 @@
     "start": "concurrently npm:watch:*",
     "watch:sync": "browser-sync start --server --no-notify --cors --files 'html/*.html', 'js/*.js', 'css/*.css','public/**/*/*.*",
     "watch:sass": "sass --watch scss/utils/mixins/main.scss:public/css/main.css",
+    "watch:mon": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
