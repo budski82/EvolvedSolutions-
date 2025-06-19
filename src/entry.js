@@ -1,4 +1,4 @@
-import addTwo from './app.js'
+import x from './app.js'
 
-console.log(addTwo(2,4))
+console.log(x)
 

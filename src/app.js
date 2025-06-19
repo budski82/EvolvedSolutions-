@@ -1,4 +1,3 @@
-export default function addTwo(a,b){
-    return a + b 
-} 
-addTwo(a,b)
+let x = 123
+console.log(x)
+export default x
