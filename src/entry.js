@@ -1,4 +1,4 @@
 import addTwo from './app.js'
 
-console.log(addTwo());
+console.log(addTwo(2,4))
 
