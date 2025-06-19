@@ -1,6 +1,6 @@
 *{margin:0;padding:0;box-sizing:border-box;}
 
-html{font:300 1.2rem sans-serif;}
+html{font:300 1.4em sans-serif;}
 body{
     height:100vh;
     background:#079;
@@ -17,5 +17,8 @@ body{
         position: relative;
         top:20%;
         height:100vh;
+    }
+    h1{
+        font-size: 1.8em;
     }
    
